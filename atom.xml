@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://guaji111.github.io</id>
+    <title>翔仔的木屋</title>
+    <updated>2022-08-15T06:35:48.068Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://guaji111.github.io"/>
+    <link rel="self" href="https://guaji111.github.io/atom.xml"/>
+    <subtitle>新人博主，后续会慢慢完善网站。主要发布文章是旅游经历与一些学习心得。</subtitle>
+    <logo>https://guaji111.github.io/images/avatar.png</logo>
+    <icon>https://guaji111.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 翔仔的木屋</rights>
+</feed>
